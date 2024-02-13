@@ -53,7 +53,6 @@ If you have any questions or suggestions regarding Todoify, feel free to reach o
 - Twitter: https://twitter.com/iMBilalDev
 
 ## Acknowledgements
-- Special thanks to [Name], [Name], and [Name] for their valuable contributions.
-- Icons made by [Author] from [Website].
+- Icons made by [IMuhammadBilalDev].
 
 
