@@ -32,8 +32,9 @@ Todoify is a sleek and intuitive task management application designed to help yo
 6. Stay organized and productive with Todoify!
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Disktop](https://github.com/iMuhammadBilalDev/todo-app/assets/148322893/901fc688-2782-4058-b0ec-33415d485ece)
+![Lattop Screen](https://github.com/iMuhammadBilalDev/todo-app/assets/148322893/4486e747-2cbd-46a8-a22b-1db6d9619704)
+
 
 ## Contributing
 We welcome contributions from the community to enhance Todoify. If you'd like to contribute, please follow these steps:
@@ -48,7 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 If you have any questions or suggestions regarding Todoify, feel free to reach out:
-- Email: [your@email.com](mailto:your@email.com)
+- Email: [your@email.com](mbilalsoomroo@gmail.com)
 - Twitter: [@todoifyapp](https://twitter.com/todoifyapp)
 
 ## Acknowledgements
