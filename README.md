@@ -49,8 +49,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 If you have any questions or suggestions regarding Todoify, feel free to reach out:
-- Email: [your@email.com](mbilalsoomroo@gmail.com)
-- Twitter: [@todoifyapp](https://twitter.com/todoifyapp)
+- Email: imuhammadbilaldev@gmail.com
+- Twitter: https://twitter.com/iMBilalDev
 
 ## Acknowledgements
 - Special thanks to [Name], [Name], and [Name] for their valuable contributions.
